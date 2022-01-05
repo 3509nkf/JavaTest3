@@ -22,7 +22,7 @@ import java.sql.SQLException;
 				// DBと接続する
 				Connection con = DriverManager.getConnection(
 						"jdbc:mysql://localhost/testdb?useSSL=false&useUnicode=true&characterEncoding=utf8", "root",
-						"ご自身で設定したrootのパスワード");
+						"3409327nkf");
 				return con;
 			}
 
